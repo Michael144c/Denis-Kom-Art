@@ -216,6 +216,12 @@ ul{
       min-height: 50vh;
 
     }
+    .banner{
+      font-size: 1.5rem;
+    }
+    .logo{
+      font-size: 2rem;
+    }
   }
   
 
